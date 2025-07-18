@@ -14,7 +14,7 @@ a side scroller game demo
 <img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/f3c18eb1-957e-4b7b-882e-a318ab5ffde0" />
 >
 >An apparatus like "animal well"
-![Image](https://github.com/user-attachments/assets/88913d79-6949-47d4-af4d-0ce8e36f81d5)
+![Image](https://github.com/user-attachments/assets/ed45b2c2-68a3-44b2-a8b1-3afc847a5ddc)
 >
 >And many institutions that can only be overcome if one is able to seize the right opportunity
 <img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/b76163d1-d669-4708-89a1-b12fc02cbd68" />
